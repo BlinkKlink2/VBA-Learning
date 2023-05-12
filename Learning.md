@@ -32,7 +32,7 @@ Beginning with Excel 2013, every workbook is displayed in new window but ony one
 
 **Note:** You can't run VBE separately; Excel should be running to run your VBE. 
 
---
+--- 
 
 #### Activating VBE
 
